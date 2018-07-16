@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parametros</string>
+    <string name="EditText_Nombre">Nombre</string>
+    <string name="TextView_Nombre">Nombre</string>
+    <string name="Boton_Enviar">Enviar</string>
+    <string name="Boton_Regresar">Regresar</string>
+</resources>
